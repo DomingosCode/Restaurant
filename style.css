@@ -7,7 +7,7 @@
 
 
 .paralax {
-  background-image: url(/assets/img/caldo2.jpg);
+  background-image: url(../assets/img/caldo2.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -37,7 +37,7 @@ h1 {
 }
 
 .paralax1 {
-  background-image: url(/assets/img/caldo3.jpg);
+  background-image: url(../assets/img/caldo3.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -46,7 +46,7 @@ h1 {
   opacity: 1.0;
 }
 .paralax2 {
-  background-image: url(/assets/img/caldo2.jpg);
+  background-image: url(../assets/img/caldo2.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
