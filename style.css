@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+.paralax {
+  background-image: url(/assets/img/caldo2.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  min-height: 620px;
+}
+
+h1 {
+  margin-top: 5rem;
+}
+
+#ingredient {
+  display: block;
+  margin-left: 3rem;
+  width: 250px;
+  background-color: #ffffff;
+  opacity: 0.7;
+  border-radius: 5px;
+  
+  
+}
+
+#tituloIngredient {
+  background-color: #34502b;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.paralax1 {
+  background-image: url(/assets/img/caldo3.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  min-height: 350px;
+  opacity: 1.0;
+}
+.paralax2 {
+  background-image: url(/assets/img/caldo2.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  min-height: 470px;
+}
+
+.preparo {
+  background-color: darkgreen;
+  background-image: linear-gradient(to right, #34502b, #7b9971);
+}
+
+#texto {
+  
+    color: #79996f;
+}
+
+p{
+  color: #fff;
+  margin: 5px;
+}
+
+.list-group-item {
+  width: 200px;
+}
+
+#ingred {
+  width: 200px;
+}
+
+span {
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+#footer {
+  
+  height: 250px;
+  align-items: center;
+  background-image:linear-gradient(to right, #34502b, #7b9971);
+}
+
